@@ -74,3 +74,7 @@ played with Git Shell in Windows. Works quite similar to under Linux, Cool!
 * 8:55 PM 25/06/2014
 
 tried to contact with GitHub using Linuxmint at the office box, but failed because of the http proxy:-(
+
+* 10:48 PM 9/09/2014
+
+tried to contact with GitHub using Linuxmint on office laptop at home, and it's working fine after disabled all cntlm proxy settings (System Settings...)
