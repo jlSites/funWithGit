@@ -1,0 +1,13 @@
+install git-for-windows 2.9
+
+you can use Git Bash or Git CMD or Git GUI as you like
+
+$ git clone https://github.com/jlSites/funWithGit.git
+
+config with Git GUI (Edit->Options) to cache your GitHub password for your repo
+
+make changes
+
+$ git commit -m "some changes"
+
+$ git push -f
